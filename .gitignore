@@ -1,0 +1,22 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Private assignment documents and data
+data/
+temp_uploads/
+
+# Extracted results may contain personal information
+outputs/
+
+# Audit reports may contain names from agreements
+source_audit_notes.md
+data_quality_report.md
